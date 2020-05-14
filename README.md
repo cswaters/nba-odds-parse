@@ -1,4 +1,4 @@
-# nba-odds-parse
+# Parse NBA Odds
 
 Convert and clean NBA odds from [sportsbookreviewsonline.com](https://www.sportsbookreviewsonline.com)
 
